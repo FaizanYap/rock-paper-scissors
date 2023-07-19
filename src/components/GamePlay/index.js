@@ -127,7 +127,7 @@ class GamePlay extends Component {
                   <RiCloseLine />
                 </button>
                 <PopUpImage
-                  src="https://asse8ts.ccbp.in/frontend/react-js/rock-paper-scissor/rules-image.png"
+                  src="https://assets.ccbp.in/frontend/react-js/rock-paper-scissor/rules-image.png"
                   alt="rules"
                 />
               </PopUpView>
